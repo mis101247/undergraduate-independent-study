@@ -10,5 +10,15 @@ KUAS MIS 101 Undergraduate Independent Study
 
 我們的專題目的是為了能夠讓使用者清楚明瞭自己的進度以及未來選擇，另一方面 也是可以藉由這個系上學術特色，來吸引想讀高應大資管系的學弟妹們先了解我們系上 的教學特色，在系統介面方面，我們使用了響應式網頁的介面設計。本系統結合了 HTML、PHP、AJAX、JavaScript、jQuery、CSS 等等程式語言，為了能夠讓系統運作跟 迅速及正確性提高，我們也去申請了間接校務系統資料，讓系上同學們的資料更能夠完 整結合本系統。
 
+
+With the curriculum information provided by the department, we will create a "MIS Curriculum Planning Information System" to help students clearly understand the content of the curriculum and its importance. Students must also choose relevant courses according to the requirements of each curriculum, so as to better absorb the relevant knowledge of the curriculum in order to have a smoother future development. In accordance with the regulations of the department, each student must complete at least one curriculum in order to graduate. Therefore, we created this system mainly to help students clearly understand their course selection progress and to provide detailed introductions to each curriculum. The four curriculums are "Internet Innovation Marketing", "Information and Communication Systems Development", "Enterprise Resource Planning", and "Interactive Design". In addition to the core capabilities of the undergraduate program, they also include interdisciplinary fields, allowing students to choose their own paths.
+
+The purpose of our project is to enable users to clearly understand their progress and future choices. On the other hand, it can also attract prospective students to our department by introducing the academic features of our department through this system. In terms of system interface, we used a responsive web interface design. This system combines programming languages such as HTML, PHP, AJAX, JavaScript, jQuery, CSS, JSON, etc. In order to improve the speed and accuracy of the system's operation, we also applied for the school's student API, allowing the department's classmates' data to be more fully integrated into the system.
+
+
+
+
+
+
 ## Document
 [![Document](https://user-images.githubusercontent.com/15373178/110232589-8f6c7a00-7f59-11eb-8b87-e10393570835.png)](https://github.com/mis101247/undergraduate-independent-study/blob/1f2bcfaf0d2b602a3cd3d1de9b64a9a4242a65ce/MIS%E5%AD%B8%E7%A8%8B%E8%A6%8F%E5%8A%83%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1.pdf)
